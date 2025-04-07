@@ -1,7 +1,7 @@
 # nosql-challenge
 
 ## Overview
-This project focuses on building an ETL (Extract, Transform, Load) pipeline using Python, Pandas, and PostgreSQL. The goal is to extract data from Excel files, transform it into structured DataFrames, and load it into a PostgreSQL database. The project demonstrates skills in data extraction, cleaning, transformation, and database management.
+This repository contains my solution for the Module 12 NoSQL Challenge, where I analyzed UK food hygiene rating data from the Food Standards Agency for the magazine "Eat Safe, Love". The project involved database setup, data cleaning, and exploratory analysis using MongoDB and Python.
 
 ## Table of Contents
 1. Overview
