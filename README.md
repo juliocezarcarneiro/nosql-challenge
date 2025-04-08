@@ -26,9 +26,9 @@ This repository contains my solution for the Module 12 NoSQL Challenge, where I 
 * Part 2: Update the Database
     * Added New Restaurant:
 
-    * Inserted "Penang Flavours" (halal restaurant in Greenwich)
+        * Inserted "Penang Flavours" (halal restaurant in Greenwich)
 
-    * Updated with correct BusinessTypeID
+        * Updated with correct BusinessTypeID
 
     * Data Cleaning:
 
@@ -38,18 +38,18 @@ This repository contains my solution for the Module 12 NoSQL Challenge, where I 
 
             * latitude/longitude to decimal numbers
 
-            * RatingValue to integers (converting non-numeric values to nulls)
+            * RatingValue to integers
 
 * Part 3: Exploratory Analysis
     * Performed analysis to answer key questions:
 
         * Establishments with hygiene score = 20 (worst hygiene)
 
-        * Highly-rated London establishments (RatingValue ≥ 4)
+        * Highly-rated London establishments
 
-        * Top-rated establishments near Penang Flavours (RatingValue = 5, sorted by hygiene)
+        * Top-rated establishments near Penang Flavours
 
-        * Local Authorities with most establishments scoring 0 hygiene (best hygiene)
+        * Local Authorities with most establishments scoring 0 hygiene
 
 ## Key Features
 * MongoDB Aggregation Pipelines
@@ -96,7 +96,6 @@ The repository is organized as follows:
 
 ## /noSQL-challenge
 
-- **ETL_Mini_Project_JCarneiro.ipynb**
 - **LICENSE.txt**
 - **README.md**
 - **NoSQL_setup_starter.ipynb**
